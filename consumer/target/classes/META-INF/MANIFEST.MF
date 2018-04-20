@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: consumer
+Implementation-Version: 1.0
+Built-By: user
+Implementation-Vendor-Id: com.spring
+Build-Jdk: 1.8.0_144
+Implementation-URL: http://projects.spring.io/spring-boot/springcloud/
+ consumer/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
